@@ -3,6 +3,9 @@ Course materials for the SOTA-II course.
 
 # week 1
 ### Group A
+**Topic: Data Sources**
+- Link: https://zoom-x.de/wb/doc/FgnLCEUMT9-GEkorLWWUxw/p/165815171781
+- PDF: [Data Sources](week_1/Data_Sources.pdf)
 
 ### Group B
 
@@ -14,6 +17,9 @@ Course materials for the SOTA-II course.
 
 # week 2
 ### Group A
+**Topic: Improving Attention**
+- Link: https://docs.google.com/presentation/d/1bRbcEWJXuob_3F5cF75SiiUNzQpzoJ7chOCrKhYdkUo/edit?usp=sharing
+- PDF: [Improving Attention](week_2/Attention_Improvements.pdf)
 
 ### Group B
 
@@ -23,6 +29,9 @@ Course materials for the SOTA-II course.
 
 # week 3
 ### Group A
+**Topic: Mixed Precision Training**
+- Link: https://docs.google.com/presentation/d/1L69EkPAsCeRFr30z6Z6RodZIKs3f6Bht9tilpTLrFQg/edit?usp=sharing
+- PDF: [Mixed Precision Training](week_3/Mixed_Precision_Training.pdf)
 
 ### Group B
 
