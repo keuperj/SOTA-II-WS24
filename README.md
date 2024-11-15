@@ -2,39 +2,39 @@
 Course materials for the SOTA-II course.
 
 # week 1
-### Grpoup A
+### Group A
 
-### Grpoup B
+### Group B
 
-### Grpoup C
+### Group C
 
 
-### Grpoup D
+### Group D
 
 
 # week 2
-### Grpoup A
+### Group A
 
-### Grpoup B
+### Group B
 
-### Grpoup C
+### Group C
 
-### Grpoup D
+### Group D
 
 # week 3
-### Grpoup A
+### Group A
 
-### Grpoup B
+### Group B
 
-### Grpoup C
+### Group C
 
-### Grpoup D
+### Group D
 
 # week 4
-### Grpoup A
+### Group A
 
-### Grpoup B
+### Group B
 
-### Grpoup C
+### Group C
 
-### Grpoup D
+### Group D
