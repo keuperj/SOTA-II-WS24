@@ -14,6 +14,8 @@ Course materials for the SOTA-II course.
 - PDF: [Scheduling](week_1/scheduling.pdf)
 
 ### Group D
+**Topic: Tokenizer**
+- Board: https://zoom-x.de/wb/doc/FgnLCEUMT9-GEkorLWWUxw/p/91485439788
 
 
 # week 2
@@ -29,6 +31,8 @@ Course materials for the SOTA-II course.
 - PDF: [The LLAMA Familie](week_2/llama.pdf)
 
 ### Group D
+**Topic: Normalization/Positional Encoding**
+- Board: https://zoom-x.de/wb/doc/M9NB8fkCRieVgkZqs0-RKA/p/128063118675
 
 # week 3
 ### Group A
@@ -41,7 +45,10 @@ Course materials for the SOTA-II course.
 ### Group C
 **Topic: Scaling Laws**
 - PDF: [Scaling Laws](week_3/scaling_laws.pdf)
+
 ### Group D
+**Topic: Optimization**
+- Board: https://zoom-x.de/wb/doc/KjSvT7XURH6AF6QzlA8m9g/p/119067491936
 
 # week 4
 ### Group A
@@ -51,3 +58,5 @@ Course materials for the SOTA-II course.
 ### Group C
 
 ### Group D
+**Topic: Formatted Instruction Tuning**
+- Board: https://zoom-x.de/wb/doc/BmikYbyYSGaiM6hRp1bX3A/p/108385592003
