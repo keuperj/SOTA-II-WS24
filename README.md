@@ -10,7 +10,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
-
+**Topic: Scheduling**
+- PDF: [Scheduling](week_1/scheduling.pdf)
 
 ### Group D
 
@@ -24,6 +25,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
+**Topic: The LLAMA Familie**
+- PDF: [The LLAMA Familie](week_2/llama.pdf)
 
 ### Group D
 
@@ -36,7 +39,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
-
+**Topic: Scaling Laws**
+- PDF: [Scaling Laws](week_3/scaling_laws.pdf)
 ### Group D
 
 # week 4
