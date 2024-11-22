@@ -56,6 +56,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
+**Topic: Self-Instruct**
+- PDF: [Self-Instruct](week_4/self-instruct.pdf)
 
 ### Group D
 **Topic: Formatted Instruction Tuning**
