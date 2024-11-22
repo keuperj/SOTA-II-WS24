@@ -8,6 +8,8 @@ Course materials for the SOTA-II course.
 - PDF: [Data Sources](week_1/Data_Sources.pdf)
 
 ### Group B
+**Topic: Filtering + De-Duplication**
+- Link: https://zoom-x.de/wb/doc/yVzHiJ0IRveHptYXsInz5Q
 
 ### Group C
 **Topic: Scheduling**
@@ -25,6 +27,8 @@ Course materials for the SOTA-II course.
 - PDF: [Improving Attention](week_2/Attention_Improvements.pdf)
 
 ### Group B
+**Topic: The GPT Familie**
+- Link: https://zoom-x.de/wb/doc/_iN7rdxoRNq4vrOzzFCGEw
 
 ### Group C
 **Topic: The LLAMA Familie**
@@ -41,6 +45,8 @@ Course materials for the SOTA-II course.
 - PDF: [Mixed Precision Training](week_3/Mixed_Precision_Training.pdf)
 
 ### Group B
+**Topic: Parallel Training**
+- Link: https://zoom-x.de/wb/doc/SU41xh3tS0mvszjBEkgs3w
 
 ### Group C
 **Topic: Scaling Laws**
@@ -54,6 +60,8 @@ Course materials for the SOTA-II course.
 ### Group A
 
 ### Group B
+**Topic: Reinforcement Learning from Human Feedback**
+- Link: https://zoom-x.de/wb/doc/VXfKftCSRfuxEglbxkTNmQ
 
 ### Group C
 
