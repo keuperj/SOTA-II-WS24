@@ -52,6 +52,9 @@ Course materials for the SOTA-II course.
 
 # week 4
 ### Group A
+**Topic: Supervised Finetuning**
+- Link: https://docs.google.com/presentation/d/1qvLuo-tFolbqOw3WdLCF5yjYAQWsYYTzk_SmEWVFQqA/edit?usp=sharing
+- PDF: [Supervised Finetuning](week_4/Supervised_Finetuning.pdf)
 
 ### Group B
 
