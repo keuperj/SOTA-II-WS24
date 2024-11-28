@@ -65,3 +65,15 @@ Course materials for the SOTA-II course.
 ### Group D
 **Topic: Formatted Instruction Tuning**
 - Board: https://zoom-x.de/wb/doc/BmikYbyYSGaiM6hRp1bX3A/p/108385592003
+
+# week 5
+### Group A
+
+### Group B
+
+### Group C
+
+### Group D
+**Topic: Planning**
+- Board: https://zoom-x.de/wb/doc/xiBaxIEvQDuABgtFUv7hqw/p/111749251518
+
