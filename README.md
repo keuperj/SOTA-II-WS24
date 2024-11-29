@@ -72,6 +72,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
+**Topic: Chain of Thought**
+- PDF: [Chain of Thought](week_5/chain_of_thought.pdf)
 
 ### Group D
 **Topic: Planning**
