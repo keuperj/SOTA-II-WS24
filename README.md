@@ -82,3 +82,64 @@ Course materials for the SOTA-II course.
 **Topic: Planning**
 - Board: https://zoom-x.de/wb/doc/xiBaxIEvQDuABgtFUv7hqw/p/111749251518
 
+# week 6
+### Group A
+
+### Group B
+
+### Group C
+
+### Group D
+
+# week 7
+### Group A
+
+### Group B
+
+### Group C
+
+### Group D
+
+# week 8
+### Group A
+
+### Group B
+
+### Group C
+
+### Group D
+
+# week 9
+### Group A
+
+### Group B
+
+### Group C
+
+### Group D
+
+# week 10
+### Group A
+
+### Group B
+
+### Group C
+
+### Group D
+
+# week 11
+### Group A
+
+### Group B
+
+### Group C
+
+### Group D
+# week 12
+### Group A
+
+### Group B
+
+### Group C
+
+### Group D
