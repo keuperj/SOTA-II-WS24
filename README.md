@@ -68,6 +68,9 @@ Course materials for the SOTA-II course.
 
 # week 5
 ### Group A
+**Topic: Optimizing Prompts**
+- Link: https://docs.google.com/presentation/d/1FEd9Vfd6C256K6CiIHflzazyXAuP3cmGqrfPuV5CcVg/edit?usp=sharing
+- PDF: [Optimizing Prompts](week_5/Optimizing_Prompts.pdf)
 
 ### Group B
 
