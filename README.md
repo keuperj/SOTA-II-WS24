@@ -98,6 +98,8 @@ Course materials for the SOTA-II course.
 ### Group C
 
 ### Group D
+**Topic: RAG**
+- Board: https://zoom-x.de/wb/doc/c_FkuPfLTDuVOWHZHd2Dww/p/110311143885
 
 # week 7
 ### Group A
