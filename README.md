@@ -96,6 +96,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
+**Topic: RAG enhancement**
+- PDF: [RAG enhancement](week_6/rag_enhancement_1.pdf)
 
 ### Group D
 **Topic: RAG**
