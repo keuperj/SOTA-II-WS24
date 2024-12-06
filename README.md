@@ -92,6 +92,9 @@ Course materials for the SOTA-II course.
 
 # week 6
 ### Group A
+**Topic: Vector Database**
+- Link: https://docs.google.com/presentation/d/1F7OsAIHjl99-t6GfriBwixQ4Ax__US1Hy3hary9Y338/edit?usp=sharing
+- PDF: [Vector Database](week_6/Vector_Database.pdf)
 
 ### Group B
 **Topic: RAG enhancement**
