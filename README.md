@@ -81,6 +81,8 @@ Course materials for the SOTA-II course.
 - PDF: [Optimizing Prompts](week_5/Optimizing_Prompts.pdf)
 
 ### Group B
+**Topic: In Context Learning (ICL)**
+- Link: [https://zoom-x.de/wb/doc/VXfKftCSRfuxEglbxkTNmQ](https://zoom-x.de/wb/doc/4WDLE8nhR4-5u8C5hcSc1Q/p/69241636463)
 
 ### Group C
 **Topic: Chain of Thought**
