@@ -119,7 +119,7 @@ Course materials for the SOTA-II course.
 
 ### Group D
 **Topic: Low Rank Adaption (LoRa)**
-- https://zoom-x.de/wb/doc/Vvzqj3YOTauSgYJq3s56SA/p/111500866661
+- Board: https://zoom-x.de/wb/doc/Vvzqj3YOTauSgYJq3s56SA/p/111500866661
 
 # week 8
 ### Group A
