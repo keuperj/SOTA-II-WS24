@@ -114,6 +114,8 @@ Course materials for the SOTA-II course.
 ### Group A
 
 ### Group B
+**Graph-RAG**
+- Link: [Graph-RAG](https://zoom-x.de/wb/doc/UUt20JIRSaikD7IfB_EEIA)
 
 ### Group C
 **Topic: Emerging Capabilities**
