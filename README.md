@@ -116,6 +116,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
+**Topic: Emerging Capabilities**
+- PDF: [Emerging Capabilities](week_7/emerging_capabilities.pdf)
 
 ### Group D
 **Topic: Low Rank Adaption (LoRa)**
