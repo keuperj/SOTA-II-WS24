@@ -112,6 +112,9 @@ Course materials for the SOTA-II course.
 
 # week 7
 ### Group A
+**Topic: Quantization**
+- Link: https://docs.google.com/presentation/d/1ypTE9AEKwCYiv3RoKDdy4zY_NeERKSprwXHNAnEUJHs/edit?usp=sharing
+- PDF: [Quantization](week_7/Quantization.pdf)
 
 ### Group B
 **Graph-RAG**
