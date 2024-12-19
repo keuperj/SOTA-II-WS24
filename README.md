@@ -133,6 +133,8 @@ Course materials for the SOTA-II course.
 ### Group C
 
 ### Group D
+**Topic: Benchmarking Coding Models**
+- Board: https://zoom-x.de/wb/doc/-HtVBAuLSfqqgdOMDTjSsA/p/110806398618
 
 # week 9
 ### Group A
