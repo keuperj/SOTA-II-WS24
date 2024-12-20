@@ -130,6 +130,9 @@ Course materials for the SOTA-II course.
 
 # week 8
 ### Group A
+**Topic: Judging Models**
+- Link: https://docs.google.com/presentation/d/1YbTXZv45tcqlt8NaLGN-Hbi9F3FLbEcEgOXf-7427F4/edit?usp=sharing
+- PDF: [Judging Models](week_8/Judging_Models.pdf)
 
 ### Group B
 
