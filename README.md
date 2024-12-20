@@ -134,6 +134,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
+**Topic: Benchmarking RAG**
+- PDF: [Benchmarking RAG](week_8/benchmarking_rag.pdf)
 
 ### Group D
 **Topic: Benchmarking Coding Models**
