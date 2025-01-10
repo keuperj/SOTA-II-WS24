@@ -148,6 +148,9 @@ Course materials for the SOTA-II course.
 
 # week 9
 ### Group A
+**Topic: Nerf-Studio**
+- Link: https://docs.google.com/presentation/d/14YoNxLij5wIA5-ZzY_vV41WKHwgOWRiYnjIBKCOn9VE/edit?usp=sharing
+- PDF: [Nerf-Studio](week_9/Nerf_Studio.pdf)
 
 ### Group B
 
