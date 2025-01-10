@@ -132,6 +132,8 @@ Course materials for the SOTA-II course.
 ### Group A
 
 ### Group B
+**Benchmarks**
+- Link: [Benchmarks](https://zoom-x.de/wb/doc/UqwHZSeURdequULCtiPMGQ/p/72376320602) 
 
 ### Group C
 
