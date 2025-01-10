@@ -168,20 +168,4 @@ Course materials for the SOTA-II course.
 
 ### Group D
 
-# week 11
-### Group A
 
-### Group B
-
-### Group C
-
-### Group D
-
-# week 12
-### Group A
-
-### Group B
-
-### Group C
-
-### Group D
