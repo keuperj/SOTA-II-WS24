@@ -147,6 +147,8 @@ Course materials for the SOTA-II course.
 ### Group C
 
 ### Group D
+**Topic: Basic NeRF**
+- Board: https://zoom-x.de/wb/doc/NDlKS9sOSX2xkX1FN9Cc1g/p/96835091698
 
 # week 10
 ### Group A
