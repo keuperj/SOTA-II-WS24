@@ -152,6 +152,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
+**Topic: Fast NERFS**
+- PDF: [Fast NERFS](week_9/fast_nerfs.pdf)
 
 ### Group D
 **Topic: Basic NeRF**
