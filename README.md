@@ -170,5 +170,7 @@ Course materials for the SOTA-II course.
 ### Group C
 
 ### Group D
+**Topic: PPO**
+- Board: https://zoom-x.de/wb/doc/DswHhUjDSbqn7NipirFPlA/p/102011508926
 
 
