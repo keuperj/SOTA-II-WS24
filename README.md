@@ -168,6 +168,8 @@ Course materials for the SOTA-II course.
 ### Group B
 
 ### Group C
+**Topic: Double Q-Learning**
+- PDF: [Double Q-Learning](week_10/double_q_learning.pdf)
 
 ### Group D
 **Topic: PPO**
