@@ -164,6 +164,9 @@ Course materials for the SOTA-II course.
 
 # week 10
 ### Group A
+**Topic: Gymnasium**
+- Link: https://docs.google.com/presentation/d/1LsZV4uk1rHBY3H8SSjz9pBkR1LgJjmC9c9VSmmAc3L0/edit?usp=sharing
+- PDF: [Gymnasium](week_10/Gymnasium.pdf)
 
 ### Group B
 
