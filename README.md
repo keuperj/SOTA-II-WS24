@@ -153,6 +153,8 @@ Course materials for the SOTA-II course.
 - PDF: [Nerf-Studio](week_9/Nerf_Studio.pdf)
 
 ### Group B
+**Topic: 3D Gaussian Splatting**
+- Board: [https://zoom-x.de/wb/doc/NDlKS9sOSX2xkX1FN9Cc1g/p/96835091698](https://zoom-x.de/wb/doc/tlcMex6CTy-AftaZ2D4uKQ/p/72272975572)
 
 ### Group C
 **Topic: Fast NERFS**
@@ -166,6 +168,8 @@ Course materials for the SOTA-II course.
 ### Group A
 
 ### Group B
+**Topic: Deep Q Learning**
+- Board: [https://zoom-x.de/wb/doc/-HtVBAuLSfqqgdOMDTjSsA/p/110806398618](https://zoom-x.de/wb/doc/C0PC_CbDR7KbczwpHd01FA/p/102046309679104)
 
 ### Group C
 **Topic: Double Q-Learning**
